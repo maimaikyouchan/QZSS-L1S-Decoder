@@ -1,0 +1,90 @@
+＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
+
+さぼり気味だったのでかなり古いと思う。
+
+＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
+
+
+
+災害・危機管理通報サービス アプリケーションノート(2020年10月 第1.0版)
+https://qzss.go.jp/en/technical/download/dc-report/users-manual_ver1.pdf
+
+
+パフォーマンス スタンダード
+Quasi-Zenith Satellite System Performance Standard(PS-QZSS-003)(March 17, 2022)
+https://qzss.go.jp/en/technical/download/pdf/ps-is-qzss/ps-qzss-003.pdf
+
+
+ユーザインタフェース仕様書
+IS-QZSS-DCR-010（Jan. 24, 2022/ 4.5MB）
+https://qzss.go.jp/en/technical/download/pdf/ps-is-qzss/is-qzss-dcr-010.pdf
+
+システム概要
+https://qzss.go.jp/technical/system/dcr.html
+
+「準天頂衛星システム ユーザインターフェース仕様書 （IS-QZSS）について
+https://qzss.go.jp/technical/download/isos7j0000000bhx-att/03_is-qzss-l1s_com_20141021.pdf
+
+
+
+
+
+〇ハードウェア関連
+
+Spresense
+https://developer.sony.com/ja/develop/spresense/
+
+ATOM GPS Kit (M8030-KT)でお手軽Bluetooth GPSレシーバーを作った - 知的好奇心 for IoT
+https://intellectualcuriosity.hatenablog.com/entry/2020/07/01/041715
+※端末設定方法の解説でM8030が災危通報に対応しているわけではない
+
+
+
+〇アプリケーション関係
+
+ゼロからはじめるPython(71) Excelで読めないSQLiteデータをPythonで読んでExcelに差し込みたい | TECH+（テックプラス）
+https://news.mynavi.jp/techplus/article/zeropython-71/
+
+
+
+
+〇音源関係
+
+緊急地震速報利用者協議会 ｜ 緊急地震速報の受信時の報知音の音源提供
+http://www.eewrk.org/eewrk_hochi-on/eewrk_hochi-on.html
+
+緊急地震速報　チャイム音の利用について
+https://www.nhk.or.jp/nijiriyou/howtochaim.html
+
+REICの緊急地震速報サイン音をご活用ください。 【REIC　リアルタイム地震・防災情報利用協議会】
+http://www.real-time.jp/?page_id=465
+
+REICサイン音利用規約書
+http://www.real-time.jp/wp/wp-content/uploads/2020/04/200401_2017signagreement.pdf
+
+Androidのオープンソース（AOSP）を見る - Qiita
+https://qiita.com/okey01/items/89e575fc8e8ebab0e2bc
+
+Cross Reference: /packages/apps/CellBroadcastReceiver/res/raw
+https://search.siprop.org/android-8.0.0_r1.0/xref/packages/apps/CellBroadcastReceiver/res/raw/
+
+Developer Collaboration Project - Androidソースコード検索サービス
+https://sites.google.com/site/devcollaboration/codesearch?pli=1
+
+
+〇その他関連(J-Alertなど)
+Jアラート | 株式会社 理経
+https://www.rikei.co.jp/j-alert/
+
+全国瞬時警報システム（Jアラート）の概要 | 消防庁の組織および所掌業務 | 総務省消防庁
+https://www.fdma.go.jp/about/organization/post-18.html
+
+Jアラートと連携する情報伝達手段の多重化について | 総務省消防庁
+https://www.fdma.go.jp/mission/protection/item/protection001_13_J-ALERT_300112_2.pdf
+
+
+バリアフリー：案内用図記号（JIS Z8210）（令和元年7月20日） - 国土交通省
+https://www.mlit.go.jp/sogoseisaku/barrierfree/sosei_barrierfree_tk_000145.html
+
+
+
